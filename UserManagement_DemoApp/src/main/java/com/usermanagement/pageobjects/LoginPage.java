@@ -20,7 +20,7 @@ public class LoginPage {
 			Reporter.log("Create link is displayed", true);
 		}
 		else{
-//			Repolog("Craete link is not displayed", true);	
+	
 			Reporter.log("Create link is not displayed", true);
 		}
 	}
